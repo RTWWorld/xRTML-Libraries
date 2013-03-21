@@ -26,7 +26,7 @@ public class Authenticate {
 
 		// Finally we call the saveAuthentication method to authenticate the token desired.
 		if (connectionManager.saveAuthentication("http://ortc-developers.realtime.co/server/2.1", true, "myAuthToken", false, "myAppKey", 3600, "myPrivateKey",	permissions)) {
-			Console.debug(connectionManager.getClass(), "Authentication Sucessful");
+			Console.debug(connectionManager.getClass(), "Authentication Sucessfull");
 		} else {
 			Console.debug(connectionManager.getClass(), "Authentication Error");
 		}
