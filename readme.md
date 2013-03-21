@@ -1,4 +1,5 @@
-# xRTML
+# xRTML #
+##  ##
 
 xRTML is a new multiplatform language that will enable the universal use of realtime.
 
@@ -11,6 +12,7 @@ By taking advantage of the know-how in real-time technologies that we have put i
 xRTML covers most of the widely used platforms and languages, enabling the simple creation of integrated Realtime solutions. Additionally, some plugins are also available for some of the most used CMSs (e.g. Wordpress and Joomla).
 
 # xRTML at GitHub
+##  ##
 The intent of this repository is to show examples of the features that our framework provides in a more technical approach. You will find examples for all the existent API's.
 
 # For more information visit the [xRTML site](http://www.xrtml.org "")

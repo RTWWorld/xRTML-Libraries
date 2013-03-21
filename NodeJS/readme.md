@@ -1,16 +1,14 @@
-# xRTML
+# xRTML - NodeJS API #
+Examples related to the NodeJS API.
 
-xRTML is a new multiplatform language that will enable the universal use of realtime.
+## - My First Connection: ##
+	Explains the creation steps, how to bind events and how to subscribe channels;
 
-With this very simple and unobtrusive library you will have, instantly at your hands, the power to make your websites and pages become “alive”.
+## - Authentication: ##
+	Explains how to authenticate tokens used in the creation of connections;
 
-When developing interactive products, you will only have to worry about what is the logic that makes sense for your business. Our library takes away the hassle of the technical details by providing a large set of out-of-the-box components ready to put your product together. If you don’t find a component suited for your needs, we also provide a very easy way of extending and customizing our library in a structured and guided manner, or even integrate third party components.
+## - Post Messages ##
+	Explains how to send a message without the need of a connection;
 
-By taking advantage of the know-how in real-time technologies that we have put into our library and server-side Application Programming Interfaces, you will make your product more appealing whilst optimizing the time-to-market.
-
-xRTML covers most of the widely used platforms and languages, enabling the simple creation of integrated Realtime solutions. Additionally, some plugins are also available for some of the most used CMSs (e.g. Wordpress and Joomla).
-
-# xRTML at GitHub
-The intent of this repository is to show examples of the features that our framework provides in a more technical approach. You will find examples for all the existent API's.
-
-# For more information visit the [xRTML site](http://www.xrtml.org "")
+## - Announcement Channels: ##
+	Explains how to subscribe announcement channels and how to handle the messages they receive;
